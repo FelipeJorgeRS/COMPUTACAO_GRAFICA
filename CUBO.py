@@ -134,3 +134,5 @@ class Cube:
 
         def set_shader(self, shader):
         self.shader = shader
+        if __name__ == '__main__':
+        main()
